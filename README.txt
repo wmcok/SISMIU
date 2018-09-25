@@ -1,5 +1,4 @@
-THEME: Unlock - Free Bootstrap 4 Theme
-AUTHOR: uiCookies.com
+AUTHOR: Washington Lima
 LICENSE: Under Creative Commons 3.0 (uiCookies.com/license)
 AUTHOR URI: https://uiCookies.com/
 
